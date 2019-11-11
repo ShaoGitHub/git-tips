@@ -2,7 +2,7 @@
 :trollface:Git的奇技淫巧
 
 # Git的奇技淫巧:see_no_evil:
-> Git常用命令集合，Fork于[tips](https://github.com/git-tips/tips)项目
+> Git常用命令集合，Fork于[tips](https://github.com/git-tips/tips)项目，本项目用于git联系
 
 Git是一个 “分布式版本管理工具”，简单的理解版本管理工具：大家在写东西的时候都用过 “回撤” 这个功能，但是回撤只能回撤几步，假如想要找回我三天之前的修改，光用 “回撤” 是找不回来的。而 “版本管理工具” 能记录每次的修改，只要提交到版本仓库，你就可以找到之前任何时刻的状态（文本状态）。
 
